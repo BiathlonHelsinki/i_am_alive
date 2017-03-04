@@ -1,0 +1,17 @@
+{
+  "name": "im_alive",
+  "version": "1.0.0",
+  "description": "Tell Biathlon API we are alive",
+  "main": "i_am_alive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-yaml-config": "^0.0.4",
+    "request": "^2.80.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
